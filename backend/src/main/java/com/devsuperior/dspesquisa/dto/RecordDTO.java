@@ -85,6 +85,4 @@ public class RecordDTO implements Serializable{
 	public void setGenreName(String genreName) {
 		this.genreName = genreName;
 	}
-	
-	
 }
